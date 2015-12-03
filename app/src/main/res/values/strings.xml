@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tweeter Search</string>
+    <string name="queryPromt">Enter Twitter search</string>
+    <string name="tagPromt">Tag your query</string>
+    <string name="saveDescription">Touch this button to save your tagged search</string>
+    <string name="taggedSearches" > Tagged Searches</string>
+</resources>
